@@ -6,6 +6,9 @@ In this script you can set the number of games that you want to wait before chas
 Chart showing bet amount stages:  https://prnt.sc/r2urul.
 And a typical bustabit chart: https://prnt.sc/r2us7p.
 
+### Template
+simple template to program custom scripts. 
+
 ### 10x Chasing Busta v1
 Same as 10x Chasing, but for the first version of bustabit.
 
