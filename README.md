@@ -1,5 +1,5 @@
 # Bustabit Hashing Scripts
-## - JS scripts to run autonomously for the popular bitcoin gambling site [bustabit.com](https://bustabit.com/)
+## JS scripts to run autonomously for the popular bitcoin gambling site [bustabit.com](https://bustabit.com/)
 ### 10x Chasing
 In this script you can set the number of games that you want to wait before chasing the x10. Once this number of games is reached, it will bet the 'base bet' value that you sen when starting the script and double the bet when needed, to stay in profit.
 
